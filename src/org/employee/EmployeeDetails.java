@@ -17,6 +17,10 @@ public class EmployeeDetails { // body or block of the class
 		System.out.println("employee id: 1122");
 	}
 	
+	private void empLocation() {
+		System.out.println("location : OMR chennai");
+	}
+	
 	// needed methods
 	public static void main(String[] args) {
 		// object creation
